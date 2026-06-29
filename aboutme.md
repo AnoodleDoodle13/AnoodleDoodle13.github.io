@@ -4,21 +4,6 @@ title: About me
 show-avatar: false
 ---
 
-<p class="about-headline">
-  I’m a UX researcher who brings cognitive psychology, human factors, and safety research to complex product experiences.
-</p>
-
-<style>
-.about-headline {
-  text-align: center;
-  font-size: 1.6rem;
-  line-height: 1.35;
-  font-weight: 700;
-  max-width: 900px;
-  margin: 2rem auto 2.5rem auto;
-}
-</style>
-
 I specialize in understanding how people interact with technology and their environment. I am currently working as a Human Factors Consultant at Core Human Factors, where I evaluate the usability, safety, and effectiveness of medical devices and combination products in alignment with FDA human factors guidance.
 
 ### Research Methods
